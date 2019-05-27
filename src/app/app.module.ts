@@ -10,7 +10,7 @@ import { AboutComponent } from './about/about.component';
   declarations: [
     AppComponent,
     DashboardComponent,
-    AboutComponent
+    AboutComponent,    
   ],
   imports: [
     BrowserModule,
